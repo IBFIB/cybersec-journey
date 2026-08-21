@@ -1,7 +1,8 @@
-# رحلتي بالأمن السيبراني
+# My Cybersecurity Journey | رحلتي بالأمن السيبراني
 
-بدأت الرحلة: 21 أغسطس 2026
+Started: August 21, 2026 | بدأت الرحلة: 21 أغسطس 2026
 
-## التقدم
-- ثبتت VirtualBox + Kali Linux
-- بدأت مسار Pre Security بـ TryHackMe
+## Progress | التقدم
+
+- Installed VirtualBox + Kali Linux | ثبتت VirtualBox + Kali Linux
+- Started Pre Security path on TryHackMe | بدأت مسار Pre Security بـ TryHackMe
